@@ -1,3 +1,5 @@
 # GustavoDamasco_GA
 
-New changes!!
+Hi!
+
+Welcome to my repository. 
